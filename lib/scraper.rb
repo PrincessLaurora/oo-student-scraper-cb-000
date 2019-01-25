@@ -34,6 +34,6 @@ class Scraper
     profile
     binding.pry
   end
-end
+
 
 end
